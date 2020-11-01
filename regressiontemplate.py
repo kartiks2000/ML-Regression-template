@@ -46,7 +46,7 @@ x_test = sc_x.transform(x_test)
 
 
 # Predicting a new result with Regression
-y_pred = predict(6.5)
+y_pred = predict([[6.5]])
 
 
 
